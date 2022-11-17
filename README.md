@@ -1,1 +1,1 @@
-# DNN-project
+# DNN-projects
